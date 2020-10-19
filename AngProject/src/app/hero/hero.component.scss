@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url("/assets/img/man-mountain.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    border-radius: 0;
+    /* 1 pixel black shadow to left, top, right and bottom */
+    text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+    color: white;
+}

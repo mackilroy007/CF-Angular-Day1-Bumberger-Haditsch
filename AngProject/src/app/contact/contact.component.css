@@ -1,0 +1,6 @@
+.carousel {
+  width: 100%;
+  /* 1 pixel black shadow to left, top, right and bottom */
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+/*# sourceMappingURL=contact.component.css.map */
